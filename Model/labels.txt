@@ -1,0 +1,7 @@
+0 Hi
+1 Bye
+2 Yes
+3 No
+4 Average
+5 Thankyou
+6 Welcome
