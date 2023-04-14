@@ -7,3 +7,15 @@ A computer vision application that detects hand signs in real-time using OpenCV 
 4. Model selection
 5. Training the model
 6. Testing and evaluation
+## Technologies 👩🏻‍💻
+1. Python programming language
+2. OpenCV for image processing
+3. TensorFlow and Keras for building and training the deep learning model
+4. NumPy and Pandas for data manipulation and analysis
+
+## Prerequisite 🖥
+1. Python version must be Python 3.6 or higher.
+2. TensorFlow and Keras should be installed for building and training the deep learning model.
+3. OpenCV should be installed for image processing.
+4. NumPy and Pandas should be installed for data manipulation and analysis.
+   
